@@ -4,5 +4,8 @@
   },
   "devDependencies": {
     "tape": "~2.13.0"
+  },
+  "dependencies": {
+    "express": "^4.2.0"
   }
 }
